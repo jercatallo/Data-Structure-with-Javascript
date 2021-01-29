@@ -52,6 +52,9 @@ class Queue {
 const q = new Queue();
 
 q.enqueue("first in line");
+q.enqueue("2nd in line");
+q.enqueue("3rd in line");
+// q.enqueue("4th in line");
 // q.enqueue("second in line");
 // q.enqueue("third in line");
 // q.enqueue("fourth in line");
